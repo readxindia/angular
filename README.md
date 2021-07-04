@@ -1,2 +1,2 @@
-# angular
+# Angular
 Angular application development.
